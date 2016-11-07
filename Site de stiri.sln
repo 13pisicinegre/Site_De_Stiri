@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site de stiri", "Site de stiri\Site de stiri.csproj", "{98F190B6-E4D2-42F4-B229-36AE82CEFBAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Site de stiri.Tests", "Site de stiri.Tests\Site de stiri.Tests.csproj", "{23DC96F8-CC5F-44F9-B07A-3B8E61DE03F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F190B6-E4D2-42F4-B229-36AE82CEFBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F190B6-E4D2-42F4-B229-36AE82CEFBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F190B6-E4D2-42F4-B229-36AE82CEFBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F190B6-E4D2-42F4-B229-36AE82CEFBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23DC96F8-CC5F-44F9-B07A-3B8E61DE03F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23DC96F8-CC5F-44F9-B07A-3B8E61DE03F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23DC96F8-CC5F-44F9-B07A-3B8E61DE03F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23DC96F8-CC5F-44F9-B07A-3B8E61DE03F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
